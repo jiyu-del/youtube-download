@@ -11,5 +11,8 @@ There are some different ways to accomplish the task
   单独下载最高质量音频和最高质量视频，采用不同方式合并音频和视频 
 #### ffmpeg合并
 #### youtubeDL自动调用ffmpeg合并
+### 全格式下载工具
+#### MiniTool uTube Downloader
+#### Savetube
 
 
